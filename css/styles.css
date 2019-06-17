@@ -1,0 +1,104 @@
+
+div img {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+
+    align: center;
+    padding-bottom: 65px;
+}
+
+.navbar-default {
+    background-color: #B8DBFF; //#F8F8F8;
+    border-color: #E7E7E7;
+}
+
+
+
+.my-container {
+    border: 1px solid green;
+}
+
+.my-row {
+    height: auto;
+}
+
+.rowmenu {
+    border: 3px solid red;
+    height: 50px;
+    background-color: #B8DBFF;
+    border-color: #E7E7E7;
+
+    border: 3px dotted blue;
+}
+
+.address {
+    display: block;
+    align-content: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.contacts {
+
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+
+.fit-image {
+
+    display: block;
+    margin: auto;
+    width: 270px;
+
+    height: 130px;
+    /* only if you want fixed height */
+
+}
+
+
+#map {
+    width: 80%;
+    height: 600px;
+    margin: auto;
+}
+
+@media screen and (max-width: 600px) {
+    #map {
+        width: 100%;
+    }
+}
+
+
+
+.maprow {
+    width: 90%;
+    margin: auto;
+    horizontal-align: center;
+}
+
+
+	
+.card-grid {
+    display: grid;
+    width: 70%;
+    margin: 20px auto;
+    grid-template-columns: 30% 70%;
+}
+
+@media only screen and (max-width: 800px) {
+    .card-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .info-text {
+        text-align: center;
+    }
+}
