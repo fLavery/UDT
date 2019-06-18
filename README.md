@@ -6,8 +6,7 @@ It includes the broad combination of both Accounting expertise and Software Deve
 
 
 ## Demo
-A live demo can be found [here](https://code-institute-solutions.github.io/StudentExampleProjectGradeFour).
-
+A live demo can be found 
 
 ## UX
 My goal in the design was to make it as easy as possible to access information on the site, while striving for a minimalist design. The layout may not be the most up-to-date design
